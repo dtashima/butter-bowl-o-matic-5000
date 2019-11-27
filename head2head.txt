@@ -1,0 +1,168 @@
+CRAZY CANUCKS
+VS.	PLAYED	ALL
+Tone-Rhm	1-0-0	2-7-0
+Satan	1-0-0	6-3-0
+Victorious Secret	1-0-0	4-5-0
+Tequila Catz	0-1-0	4-5-0
+O-Furs	0-0-0	3-6-0
+Gert Jonnys!	0-0-0	8-1-0
+Slappy Grannies	0-1-0	3-5-1
+Gingerbottoms	1-0-0	5-4-0
+Vanilla Gorillas	1-0-0	5-4-0
+Old White Guys from Buffalo	0-1-0	2-7-0
+The Weather Girls	0-1-0	3-6-0
+Total	5-4-0	45-53-1
+GERT JONNYS!
+VS.	PLAYED	ALL
+Tone-Rhm	0-1-0	0-9-0
+Satan	0-0-0	3-6-0
+Victorious Secret	0-1-0	1-8-0
+Tequila Catz	0-1-0	2-7-0
+O-Furs	1-0-0	2-7-0
+Slappy Grannies	1-0-0	1-8-0
+Gingerbottoms	1-0-0	3-6-0
+Vanilla Gorillas	0-1-0	3-6-0
+Old White Guys from Buffalo	0-1-0	1-8-0
+The Weather Girls	0-1-0	1-8-0
+Crazy Canucks	0-0-0	1-8-0
+Total	3-6-0	18-81-0
+GINGERBOTTOMS
+VS.	PLAYED	ALL
+Tone-Rhm	0-0-0	2-7-0
+Satan	0-1-0	5-4-0
+Victorious Secret	1-0-0	6-3-0
+Tequila Catz	1-0-0	5-4-0
+O-Furs	0-0-0	3-6-0
+Gert Jonnys!	0-1-0	6-3-0
+Slappy Grannies	0-1-0	4-5-0
+Vanilla Gorillas	1-0-0	5-4-0
+Old White Guys from Buffalo	0-1-0	2-7-0
+The Weather Girls	0-1-0	3-6-0
+Crazy Canucks	0-1-0	4-5-0
+Total	3-6-0	45-54-0
+O-FURS
+VS.	PLAYED	ALL
+Tone-Rhm	0-1-0	2-7-0
+Satan	1-0-0	7-2-0
+Victorious Secret	1-0-0	6-3-0
+Tequila Catz	0-1-0	4-5-0
+Gert Jonnys!	0-1-0	7-2-0
+Slappy Grannies	0-1-0	3-6-0
+Gingerbottoms	0-0-0	6-3-0
+Vanilla Gorillas	0-1-0	4-5-0
+Old White Guys from Buffalo	1-0-0	4-5-0
+The Weather Girls	1-0-0	5-4-0
+Crazy Canucks	0-0-0	6-3-0
+Total	4-5-0	54-45-0
+OLD WHITE GUYS FROM BUFFALO
+VS.	PLAYED	ALL
+Tone-Rhm	1-0-0	4-5-0
+Satan	1-0-0	6-3-0
+Victorious Secret	0-0-0	7-2-0
+Tequila Catz	0-0-0	7-2-0
+O-Furs	0-1-0	5-4-0
+Gert Jonnys!	1-0-0	8-1-0
+Slappy Grannies	1-0-0	6-3-0
+Gingerbottoms	1-0-0	7-2-0
+Vanilla Gorillas	0-1-0	7-2-0
+The Weather Girls	0-1-0	6-3-0
+Crazy Canucks	1-0-0	7-2-0
+Total	6-3-0	70-29-0
+SATAN
+VS.	PLAYED	ALL
+Tone-Rhm	0-0-0	2-7-0
+Victorious Secret	1-0-0	5-4-0
+Tequila Catz	1-0-0	4-5-0
+O-Furs	0-1-0	2-7-0
+Gert Jonnys!	0-0-0	6-3-0
+Slappy Grannies	0-1-0	4-5-0
+Gingerbottoms	1-0-0	4-5-0
+Vanilla Gorillas	0-1-0	4-5-0
+Old White Guys from Buffalo	0-1-0	3-6-0
+The Weather Girls	0-1-0	4-5-0
+Crazy Canucks	0-1-0	3-6-0
+Total	3-6-0	41-58-0
+ 	
+SLAPPY GRANNIES
+VS.	PLAYED	ALL
+Tone-Rhm	0-1-0	3-6-0
+Satan	1-0-0	5-4-0
+Victorious Secret	0-0-0	6-3-0
+Tequila Catz	1-0-0	4-5-0
+O-Furs	1-0-0	6-3-0
+Gert Jonnys!	0-1-0	8-1-0
+Gingerbottoms	1-0-0	5-4-0
+Vanilla Gorillas	1-0-0	4-5-0
+Old White Guys from Buffalo	0-1-0	3-6-0
+The Weather Girls	0-0-0	4-5-0
+Crazy Canucks	1-0-0	5-3-1
+Total	6-3-0	53-45-1
+TEQUILA CATZ
+VS.	PLAYED	ALL
+Tone-Rhm	1-0-0	2-7-0
+Satan	0-1-0	5-4-0
+Victorious Secret	0-1-0	6-3-0
+O-Furs	1-0-0	5-4-0
+Gert Jonnys!	1-0-0	7-2-0
+Slappy Grannies	0-1-0	5-4-0
+Gingerbottoms	0-1-0	4-5-0
+Vanilla Gorillas	0-0-0	5-4-0
+Old White Guys from Buffalo	0-0-0	2-7-0
+The Weather Girls	0-1-0	4-5-0
+Crazy Canucks	1-0-0	5-4-0
+Total	4-5-0	50-49-0
+THE WEATHER GIRLS
+VS.	PLAYED	ALL
+Tone-Rhm	1-0-0	2-7-0
+Satan	1-0-0	5-4-0
+Victorious Secret	1-0-0	7-2-0
+Tequila Catz	1-0-0	5-4-0
+O-Furs	0-1-0	4-5-0
+Gert Jonnys!	1-0-0	8-1-0
+Slappy Grannies	0-0-0	5-4-0
+Gingerbottoms	1-0-0	6-3-0
+Vanilla Gorillas	0-0-0	6-3-0
+Old White Guys from Buffalo	1-0-0	3-6-0
+Crazy Canucks	1-0-0	6-3-0
+Total	8-1-0	57-42-0
+TONE-RHM
+VS.	PLAYED	ALL
+Satan	0-0-0	7-2-0
+Victorious Secret	1-0-0	8-1-0
+Tequila Catz	0-1-0	7-2-0
+O-Furs	1-0-0	7-2-0
+Gert Jonnys!	1-0-0	9-0-0
+Slappy Grannies	1-0-0	6-3-0
+Gingerbottoms	0-0-0	7-2-0
+Vanilla Gorillas	1-0-0	7-2-0
+Old White Guys from Buffalo	0-1-0	5-4-0
+The Weather Girls	0-1-0	7-2-0
+Crazy Canucks	0-1-0	7-2-0
+Total	5-4-0	77-22-0
+VANILLA GORILLAS
+VS.	PLAYED	ALL
+Tone-Rhm	0-1-0	2-7-0
+Satan	1-0-0	5-4-0
+Victorious Secret	1-0-0	5-4-0
+Tequila Catz	0-0-0	4-5-0
+O-Furs	1-0-0	5-4-0
+Gert Jonnys!	1-0-0	6-3-0
+Slappy Grannies	0-1-0	5-4-0
+Gingerbottoms	0-1-0	4-5-0
+Old White Guys from Buffalo	1-0-0	2-7-0
+The Weather Girls	0-0-0	3-6-0
+Crazy Canucks	0-1-0	4-5-0
+Total	5-4-0	45-54-0
+VICTORIOUS SECRET
+VS.	PLAYED	ALL
+Tone-Rhm	0-1-0	1-8-0
+Satan	0-1-0	4-5-0
+Tequila Catz	1-0-0	3-6-0
+O-Furs	0-1-0	3-6-0
+Gert Jonnys!	1-0-0	8-1-0
+Slappy Grannies	0-0-0	3-6-0
+Gingerbottoms	0-1-0	3-6-0
+Vanilla Gorillas	0-1-0	4-5-0
+Old White Guys from Buffalo	0-0-0	2-7-0
+The Weather Girls	0-1-0	2-7-0
+Crazy Canucks	0-1-0	5-4-0

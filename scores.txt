@@ -1,0 +1,205 @@
+PERIOD 1: 9/4/14 - 9/8/14 MATCHUPS	@	RESULTS
+The Weather Girls (L)	O-Furs (W)	79.1 - 106.1
+Satan (L)	Old White Guys from Buffalo (W)	80.1 - 105.7
+Crazy Canucks (W)	Vanilla Gorillas (L)	104.6 - 95.2
+Gert Jonnys! (L)	Tequila Catz (W)	64.0 - 86.6
+Victorious Secret (L)	Tone-Rhm (W)	84.7 - 109.4
+Slappy Grannies (W)	Gingerbottoms (L)	116.5 - 99.6
+DAISY DIVISION	W	L	T	FPTS
+O-Furs	1	0	0	106.1
+Old White Guys from Buffalo	1	0	0	105.7
+Satan	0	1	0	80.1
+The Weather Girls	0	1	0	79.1
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	1	0	0	116.5
+Tequila Catz	1	0	0	86.6
+Gingerbottoms	0	1	0	99.6
+Gert Jonnys!	0	1	0	64.0
+POPPY DIVISION	W	L	T	FPTS
+Tone-Rhm	1	0	0	109.4
+Crazy Canucks	1	0	0	104.6
+Vanilla Gorillas	0	1	0	95.2
+Victorious Secret	0	1	0	84.7
+PERIOD 2: 9/9/14 - 9/15/14 MATCHUPS	@	RESULTS
+Satan (L)	The Weather Girls (W)	84.4 - 94.0
+Old White Guys from Buffalo (L)	O-Furs (W)	88.6 - 107.9
+Vanilla Gorillas (L)	Tone-Rhm (W)	69.3 - 130.0
+Gingerbottoms (W)	Tequila Catz (L)	86.5 - 79.1
+Crazy Canucks (W)	Victorious Secret (L)	96.9 - 79.8
+Slappy Grannies (L)	Gert Jonnys! (W)	59.1 - 75.2
+DAISY DIVISION	W	L	T	FPTS
+O-Furs	2	0	0	213.9
+Old White Guys from Buffalo	1	1	0	194.4
+The Weather Girls	1	1	0	173.1
+Satan	0	2	0	164.5
+PANSY DIVISION	W	L	T	FPTS
+Gingerbottoms	1	1	0	186.1
+Slappy Grannies	1	1	0	175.6
+Tequila Catz	1	1	0	165.8
+Gert Jonnys!	1	1	0	139.2
+POPPY DIVISION	W	L	T	FPTS
+Tone-Rhm	2	0	0	239.4
+Crazy Canucks	2	0	0	201.5
+Victorious Secret	0	2	0	164.5
+Vanilla Gorillas	0	2	0	164.5
+PERIOD 3: 9/16/14 - 9/22/14 MATCHUPS	@	RESULTS
+The Weather Girls (W)	Old White Guys from Buffalo (L)	67.4 - 62.6
+Victorious Secret (L)	Vanilla Gorillas (W)	64.9 - 84.0
+Gert Jonnys! (W)	Gingerbottoms (L)	89.0 - 74.9
+Tone-Rhm (L)	Crazy Canucks (W)	90.6 - 111.4
+Tequila Catz (L)	Slappy Grannies (W)	84.5 - 113.3
+O-Furs (W)	Satan (L)	88.9 - 73.2
+DAISY DIVISION	W	L	T	FPTS
+O-Furs	3	0	0	302.8
+The Weather Girls	2	1	0	240.6
+Old White Guys from Buffalo	1	2	0	257.0
+Satan	0	3	0	237.8
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	2	1	0	288.9
+Gert Jonnys!	2	1	0	228.2
+Gingerbottoms	1	2	0	261.0
+Tequila Catz	1	2	0	250.3
+POPPY DIVISION	W	L	T	FPTS
+Crazy Canucks	3	0	0	313.0
+Tone-Rhm	2	1	0	330.0
+Vanilla Gorillas	1	2	0	248.5
+Victorious Secret	0	3	0	229.4
+PERIOD 4: 9/23/14 - 9/29/14 MATCHUPS	@	RESULTS
+The Weather Girls (W)	Gert Jonnys! (L)	95.5 - 65.0
+Old White Guys from Buffalo (L)	Vanilla Gorillas (W)	95.9 - 103.0
+Gingerbottoms (L)	Crazy Canucks (W)	63.0 - 85.7
+Tequila Catz (L)	Victorious Secret (W)	106.7 - 119.0
+O-Furs (L)	Tone-Rhm (W)	100.8 - 142.9
+Satan (L)	Slappy Grannies (W)	64.6 - 128.7
+DAISY DIVISION	W	L	T	FPTS
+O-Furs	3	1	0	403.6
+The Weather Girls	3	1	0	336.1
+Old White Guys from Buffalo	1	3	0	352.9
+Satan	0	4	0	302.3
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	3	1	0	417.6
+Gert Jonnys!	2	2	0	293.2
+Tequila Catz	1	3	0	357.0
+Gingerbottoms	1	3	0	324.0
+POPPY DIVISION	W	L	T	FPTS
+Crazy Canucks	4	0	0	398.6
+Tone-Rhm	3	1	0	472.9
+Vanilla Gorillas	2	2	0	351.5
+Victorious Secret	1	3	0	348.4
+PERIOD 5: 9/30/14 - 10/6/14 MATCHUPS	@	RESULTS
+The Weather Girls (W)	Tone-Rhm (L)	118.1 - 76.9
+Satan (L)	Vanilla Gorillas (W)	74.3 - 92.7
+Old White Guys from Buffalo (W)	Gingerbottoms (L)	150.2 - 100.9
+O-Furs (L)	Tequila Catz (W)	91.2 - 95.4
+Gert Jonnys! (L)	Victorious Secret (W)	65.0 - 86.5
+Slappy Grannies (W)	Crazy Canucks (L)	91.5 - 85.0
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	4	1	0	454.2
+O-Furs	3	2	0	494.8
+Old White Guys from Buffalo	2	3	0	503.1
+Satan	0	5	0	376.7
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	4	1	0	509.1
+Tequila Catz	2	3	0	452.4
+Gert Jonnys!	2	3	0	358.2
+Gingerbottoms	1	4	0	424.8
+POPPY DIVISION	W	L	T	FPTS
+Crazy Canucks	4	1	0	483.7
+Tone-Rhm	3	2	0	549.8
+Vanilla Gorillas	3	2	0	444.2
+Victorious Secret	2	3	0	434.9
+PERIOD 6: 10/7/14 - 10/13/14 MATCHUPS	@	RESULTS
+Tequila Catz (L)	The Weather Girls (W)	71.8 - 105.1
+Vanilla Gorillas (L)	Slappy Grannies (W)	86.6 - 114.7
+Gingerbottoms (L)	Satan (W)	87.6 - 124.1
+Tone-Rhm (W)	Gert Jonnys! (L)	116.3 - 90.3
+Victorious Secret (L)	O-Furs (W)	94.2 - 131.3
+Crazy Canucks (L)	Old White Guys from Buffalo (W)	87.2 - 137.9
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	5	1	0	559.2
+O-Furs	4	2	0	626.1
+Old White Guys from Buffalo	3	3	0	641.0
+Satan	1	5	0	500.7
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	5	1	0	623.8
+Tequila Catz	2	4	0	524.2
+Gert Jonnys!	2	4	0	448.5
+Gingerbottoms	1	5	0	512.5
+POPPY DIVISION	W	L	T	FPTS
+Tone-Rhm	4	2	0	666.0
+Crazy Canucks	4	2	0	570.9
+Vanilla Gorillas	3	3	0	530.7
+Victorious Secret	2	4	0	529.0
+PERIOD 7: 10/14/14 - 10/20/14 MATCHUPS	@	RESULTS
+Victorious Secret (L)	The Weather Girls (W)	86.1 - 86.3
+Crazy Canucks (W)	Satan (L)	81.6 - 59.0
+Vanilla Gorillas (L)	Gingerbottoms (W)	78.5 - 124.1
+Tone-Rhm (L)	Tequila Catz (W)	106.5 - 108.1
+Gert Jonnys! (W)	O-Furs (L)	74.3 - 72.2
+Slappy Grannies (L)	Old White Guys from Buffalo (W)	74.8 - 110.6
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	6	1	0	645.5
+Old White Guys from Buffalo	4	3	0	751.6
+O-Furs	4	3	0	698.3
+Satan	1	6	0	559.7
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	5	2	0	698.6
+Tequila Catz	3	4	0	632.3
+Gert Jonnys!	3	4	0	522.8
+Gingerbottoms	2	5	0	636.5
+POPPY DIVISION	W	L	T	FPTS
+Crazy Canucks	5	2	0	652.4
+Tone-Rhm	4	3	0	772.5
+Vanilla Gorillas	3	4	0	609.2
+Victorious Secret	2	5	0	615.1
+PERIOD 8: 10/21/14 - 10/27/14 MATCHUPS	@	RESULTS
+The Weather Girls (W)	Gingerbottoms (L)	153.3 - 76.9
+O-Furs (L)	Slappy Grannies (W)	80.9 - 94.0
+Tone-Rhm (L)	Old White Guys from Buffalo (W)	104.5 - 146.9
+Tequila Catz (W)	Crazy Canucks (L)	101.1 - 94.0
+Victorious Secret (L)	Satan (W)	99.2 - 152.8
+Gert Jonnys! (L)	Vanilla Gorillas (W)	66.4 - 120.3
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	7	1	0	798.9
+Old White Guys from Buffalo	5	3	0	898.5
+O-Furs	4	4	0	779.2
+Satan	2	6	0	712.5
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	6	2	0	792.6
+Tequila Catz	4	4	0	733.4
+Gert Jonnys!	3	5	0	589.3
+Gingerbottoms	2	6	0	713.4
+POPPY DIVISION	W	L	T	FPTS
+Crazy Canucks	5	3	0	746.4
+Tone-Rhm	4	4	0	877.0
+Vanilla Gorillas	4	4	0	729.5
+Victorious Secret	2	6	0	714.3
+PERIOD 9: 10/28/14 - 11/3/14 MATCHUPS	@	RESULTS
+The Weather Girls (W)	Crazy Canucks (L)	105.0 - 84.7
+O-Furs (L)	Vanilla Gorillas (W)	85.2 - 101.8
+Tone-Rhm (W)	Slappy Grannies (L)	123.8 - 77.4
+Tequila Catz (L)	Satan (W)	98.5 - 123.2
+Victorious Secret (L)	Gingerbottoms (W)	71.5 - 90.3
+Gert Jonnys! (L)	Old White Guys from Buffalo (W)	60.9 - 106.5
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	8	1	0	903.8
+Old White Guys from Buffalo	6	3	0	1004.9
+O-Furs	4	5	0	864.4
+Satan	3	6	0	835.7
+PANSY DIVISION	W	L	T	FPTS
+Slappy Grannies	6	3	0	870.0
+Tequila Catz	4	5	0	832.0
+Gingerbottoms	3	6	0	803.7
+Gert Jonnys!	3	6	0	650.1
+POPPY DIVISION	W	L	T	FPTS
+Tone-Rhm	5	4	0	1000.9
+Vanilla Gorillas	5	4	0	831.3
+Crazy Canucks	5	4	0	831.1
+Victorious Secret	2	7	0	785.8
+PERIOD 10: 11/4/14 - 11/10/14 MATCHUPS	@	RESULTS
+Slappy Grannies (W)	The Weather Girls (L)	135.8 - 117.5
+Gingerbottoms (W)	O-Furs (L)	104.3 - 94.0
+Satan (L)	Tone-Rhm (W)	39.4 - 105.1
+Vanilla Gorillas (W)	Tequila Catz (L)	104.9 - 73.7
+Old White Guys from Buffalo (L)	Victorious Secret (W)	73.7 - 117.6
+Crazy Canucks (L)	Gert Jonnys! (W)	49.2 - 55.4

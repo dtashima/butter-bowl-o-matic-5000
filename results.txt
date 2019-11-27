@@ -1,0 +1,7 @@
+
+
+
+2 weeks:
+(set(['Slappy Grannies']), set(['The Weather Girls', 'Slappy Grannies']), set(['Victorious Secret', 'Satan']))
+division Count: defaultdict(<type 'int'>, {'Tone-Rhm': 2048, 'The Weather Girls': 3584, 'Vanilla Gorillas': 1024, 'Old White Guys from Buffalo': 512, 'Crazy Canucks': 1024, 'Slappy Grannies': 4096})
+playoff count: defaultdict(<type 'int'>, {'Tone-Rhm': 3570, 'The Weather Girls': 4096, 'Vanilla Gorillas': 3452, 'Tequila Catz': 526, 'O-Furs': 1136, 'Old White Guys from Buffalo': 3452, 'Gingerbottoms': 644, 'Crazy Canucks': 2688, 'Slappy Grannies': 4096, 'Gert Jonnys!': 916})

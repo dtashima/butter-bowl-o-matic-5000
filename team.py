@@ -154,11 +154,11 @@ class League(object):
         for divList in self.teams.values():
             divList.sort()
         winners = {}
-        for (division, teams) in self.teams.iteritems():
+        for (division, teams) in self.teams.items():
             top = topTeams(teams)
             if len(top) > 1:
                 Team.showMatches  = True
-                print 'Alert, Tie in Division winners: ' + str(top)
+                print('Alert, Tie in Division winners: ' + str(top))
                 Team.showMatches  = False
             winners[division] = top
 
@@ -173,7 +173,7 @@ class League(object):
         res =  topTeams(teams, n=num)
         if len(res) > num:
             Team.showMatches  = True
-            print 'Alert, Tie in wc teams: ' + str(res)
+            print('Alert, Tie in wc teams: ' + str(res))
             Team.showMatches  = False
         return res
 

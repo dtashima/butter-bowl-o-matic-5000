@@ -1,205 +1,242 @@
-PERIOD 1: 9/4/14 - 9/8/14 MATCHUPS	@	RESULTS
-The Weather Girls (L)	O-Furs (W)	79.1 - 106.1
-Satan (L)	Old White Guys from Buffalo (W)	80.1 - 105.7
-Crazy Canucks (W)	Vanilla Gorillas (L)	104.6 - 95.2
-Gert Jonnys! (L)	Tequila Catz (W)	64.0 - 86.6
-Victorious Secret (L)	Tone-Rhm (W)	84.7 - 109.4
-Slappy Grannies (W)	Gingerbottoms (L)	116.5 - 99.6
+PERIOD 1: 9/8/22 - 9/12/22 MATCHUPS	@	RESULTS
+Old White Guys from... (W)	Antique Dolls (L)	105.2 - 83.3Recap
+Crazy Canucks (L)	Victorious Secret (W)	71.3 - 141.4Recap
+LanceHats (W)	The Congenial Gert... (L)	99.9 - 72.4Recap
+Satan (L)	The Weather Girls (W)	85.8 - 103.4Recap
+Tequila Catz (L)	Slappy Grannies Home... (W)	79.3 - 96.0Recap
+Sicilian Poison Control... (W)	Tone-Rhm (L)	107.9 - 94.7Recap
 DAISY DIVISION	W	L	T	FPTS
-O-Furs	1	0	0	106.1
-Old White Guys from Buffalo	1	0	0	105.7
-Satan	0	1	0	80.1
-The Weather Girls	0	1	0	79.1
+Old White Guys from...	1	0	0	105.2
+The Weather Girls	1	0	0	103.4
+Satan	0	1	0	85.8
+Antique Dolls	0	1	0	83.3
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	1	0	0	116.5
-Tequila Catz	1	0	0	86.6
-Gingerbottoms	0	1	0	99.6
-Gert Jonnys!	0	1	0	64.0
+LanceHats	1	0	0	99.9
+Slappy Grannies Home...	1	0	0	96.0
+Tequila Catz	0	1	0	79.3
+The Congenial Gert...	0	1	0	72.4
 POPPY DIVISION	W	L	T	FPTS
-Tone-Rhm	1	0	0	109.4
-Crazy Canucks	1	0	0	104.6
-Vanilla Gorillas	0	1	0	95.2
-Victorious Secret	0	1	0	84.7
-PERIOD 2: 9/9/14 - 9/15/14 MATCHUPS	@	RESULTS
-Satan (L)	The Weather Girls (W)	84.4 - 94.0
-Old White Guys from Buffalo (L)	O-Furs (W)	88.6 - 107.9
-Vanilla Gorillas (L)	Tone-Rhm (W)	69.3 - 130.0
-Gingerbottoms (W)	Tequila Catz (L)	86.5 - 79.1
-Crazy Canucks (W)	Victorious Secret (L)	96.9 - 79.8
-Slappy Grannies (L)	Gert Jonnys! (W)	59.1 - 75.2
+Victorious Secret	1	0	0	141.4
+Sicilian Poison Control...	1	0	0	107.9
+Tone-Rhm	0	1	0	94.7
+Crazy Canucks	0	1	0	71.3
+PERIOD 2: 9/13/22 - 9/19/22 MATCHUPS	@	RESULTS
+Slappy Grannies Home... (L)	The Congenial Gert... (W)	78.8 - 98.0Recap
+Victorious Secret (L)	Tone-Rhm (W)	98.8 - 121.9Recap
+Old White Guys from... (W)	Satan (L)	106.7 - 91.6Recap
+Antique Dolls (L)	The Weather Girls (W)	82.1 - 88.7Recap
+Tequila Catz (W)	LanceHats (L)	87.2 - 66.9Recap
+Crazy Canucks (W)	Sicilian Poison Control... (L)	119.4 - 109.2Recap
 DAISY DIVISION	W	L	T	FPTS
-O-Furs	2	0	0	213.9
-Old White Guys from Buffalo	1	1	0	194.4
-The Weather Girls	1	1	0	173.1
-Satan	0	2	0	164.5
+Old White Guys from...	2	0	0	211.9
+The Weather Girls	2	0	0	192.1
+Satan	0	2	0	177.4
+Antique Dolls	0	2	0	165.4
 PANSY DIVISION	W	L	T	FPTS
-Gingerbottoms	1	1	0	186.1
-Slappy Grannies	1	1	0	175.6
-Tequila Catz	1	1	0	165.8
-Gert Jonnys!	1	1	0	139.2
+Slappy Grannies Home...	1	1	0	174.8
+The Congenial Gert...	1	1	0	170.4
+LanceHats	1	1	0	166.8
+Tequila Catz	1	1	0	166.5
 POPPY DIVISION	W	L	T	FPTS
-Tone-Rhm	2	0	0	239.4
-Crazy Canucks	2	0	0	201.5
-Victorious Secret	0	2	0	164.5
-Vanilla Gorillas	0	2	0	164.5
-PERIOD 3: 9/16/14 - 9/22/14 MATCHUPS	@	RESULTS
-The Weather Girls (W)	Old White Guys from Buffalo (L)	67.4 - 62.6
-Victorious Secret (L)	Vanilla Gorillas (W)	64.9 - 84.0
-Gert Jonnys! (W)	Gingerbottoms (L)	89.0 - 74.9
-Tone-Rhm (L)	Crazy Canucks (W)	90.6 - 111.4
-Tequila Catz (L)	Slappy Grannies (W)	84.5 - 113.3
-O-Furs (W)	Satan (L)	88.9 - 73.2
+Victorious Secret	1	1	0	240.2
+Sicilian Poison Control...	1	1	0	217.1
+Tone-Rhm	1	1	0	216.6
+Crazy Canucks	1	1	0	190.7
+PERIOD 3: 9/20/22 - 9/26/22 MATCHUPS	@	RESULTS
+LanceHats (W)	Slappy Grannies Home... (L)	70.5 - 69.0Recap
+Sicilian Poison Control... (W)	Victorious Secret (L)	69.6 - 54.1Recap
+The Weather Girls (L)	Old White Guys from... (W)	95.1 - 96.2Recap
+Tone-Rhm (W)	Crazy Canucks (L)	120.3 - 104.5Recap
+The Congenial Gert... (W)	Tequila Catz (L)	82.8 - 64.7Recap
+Satan (W)	Antique Dolls (L)	102.7 - 78.8Recap
 DAISY DIVISION	W	L	T	FPTS
-O-Furs	3	0	0	302.8
-The Weather Girls	2	1	0	240.6
-Old White Guys from Buffalo	1	2	0	257.0
-Satan	0	3	0	237.8
+Old White Guys from...	3	0	0	308.1
+The Weather Girls	2	1	0	287.2
+Satan	1	2	0	280.1
+Antique Dolls	0	3	0	244.2
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	2	1	0	288.9
-Gert Jonnys!	2	1	0	228.2
-Gingerbottoms	1	2	0	261.0
-Tequila Catz	1	2	0	250.3
+LanceHats	2	1	0	237.3
+The Congenial Gert...	2	1	0	253.2
+Slappy Grannies Home...	1	2	0	243.8
+Tequila Catz	1	2	0	231.1
 POPPY DIVISION	W	L	T	FPTS
-Crazy Canucks	3	0	0	313.0
-Tone-Rhm	2	1	0	330.0
-Vanilla Gorillas	1	2	0	248.5
-Victorious Secret	0	3	0	229.4
-PERIOD 4: 9/23/14 - 9/29/14 MATCHUPS	@	RESULTS
-The Weather Girls (W)	Gert Jonnys! (L)	95.5 - 65.0
-Old White Guys from Buffalo (L)	Vanilla Gorillas (W)	95.9 - 103.0
-Gingerbottoms (L)	Crazy Canucks (W)	63.0 - 85.7
-Tequila Catz (L)	Victorious Secret (W)	106.7 - 119.0
-O-Furs (L)	Tone-Rhm (W)	100.8 - 142.9
-Satan (L)	Slappy Grannies (W)	64.6 - 128.7
+Sicilian Poison Control...	2	1	0	286.7
+Tone-Rhm	2	1	0	336.9
+Victorious Secret	1	2	0	294.3
+Crazy Canucks	1	2	0	295.2
+PERIOD 4: 9/27/22 - 10/3/22 MATCHUPS	@	RESULTS
+The Congenial Gert... (L)	The Weather Girls (W)	92.0 - 99.7Recap
+Victorious Secret (L)	Old White Guys from... (W)	75.4 - 104.7Recap
+LanceHats (L)	Sicilian Poison Control... (W)	78.9 - 131.6Recap
+Tequila Catz (W)	Crazy Canucks (L)	109.1 - 92.2Recap
+Slappy Grannies Home... (L)	Antique Dolls (W)	73.1 - 141.1Recap
+Tone-Rhm (W)	Satan (L)	112.4 - 84.6Recap
 DAISY DIVISION	W	L	T	FPTS
-O-Furs	3	1	0	403.6
-The Weather Girls	3	1	0	336.1
-Old White Guys from Buffalo	1	3	0	352.9
-Satan	0	4	0	302.3
+Old White Guys from...	4	0	0	412.8
+The Weather Girls	3	1	0	386.9
+Satan	1	3	0	364.7
+Antique Dolls	1	3	0	385.2
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	3	1	0	417.6
-Gert Jonnys!	2	2	0	293.2
-Tequila Catz	1	3	0	357.0
-Gingerbottoms	1	3	0	324.0
+The Congenial Gert...	2	2	0	345.1
+LanceHats	2	2	0	316.2
+Tequila Catz	2	2	0	340.3
+Slappy Grannies Home...	1	3	0	316.9
 POPPY DIVISION	W	L	T	FPTS
-Crazy Canucks	4	0	0	398.6
-Tone-Rhm	3	1	0	472.9
-Vanilla Gorillas	2	2	0	351.5
-Victorious Secret	1	3	0	348.4
-PERIOD 5: 9/30/14 - 10/6/14 MATCHUPS	@	RESULTS
-The Weather Girls (W)	Tone-Rhm (L)	118.1 - 76.9
-Satan (L)	Vanilla Gorillas (W)	74.3 - 92.7
-Old White Guys from Buffalo (W)	Gingerbottoms (L)	150.2 - 100.9
-O-Furs (L)	Tequila Catz (W)	91.2 - 95.4
-Gert Jonnys! (L)	Victorious Secret (W)	65.0 - 86.5
-Slappy Grannies (W)	Crazy Canucks (L)	91.5 - 85.0
+Sicilian Poison Control...	3	1	0	418.3
+Tone-Rhm	3	1	0	449.3
+Victorious Secret	1	3	0	369.7
+Crazy Canucks	1	3	0	387.3
+PERIOD 5: 10/4/22 - 10/10/22 MATCHUPS	@	RESULTS
+The Congenial Gert... (L)	Tone-Rhm (W)	78.2 - 139.5Recap
+Antique Dolls (W)	Tequila Catz (L)	97.8 - 76.4Recap
+Sicilian Poison Control... (L)	Satan (W)	98.1 - 106.0Recap
+Crazy Canucks (L)	Old White Guys from... (W)	99.5 - 113.3Recap
+Slappy Grannies Home... (L)	Victorious Secret (W)	60.1 - 101.4Recap
+The Weather Girls (W)	LanceHats (L)	94.6 - 76.3Recap
 DAISY DIVISION	W	L	T	FPTS
-The Weather Girls	4	1	0	454.2
-O-Furs	3	2	0	494.8
-Old White Guys from Buffalo	2	3	0	503.1
-Satan	0	5	0	376.7
+Old White Guys from...	5	0	0	526.1
+The Weather Girls	4	1	0	481.5
+Satan	2	3	0	470.7
+Antique Dolls	2	3	0	483.0
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	4	1	0	509.1
-Tequila Catz	2	3	0	452.4
-Gert Jonnys!	2	3	0	358.2
-Gingerbottoms	1	4	0	424.8
+The Congenial Gert...	2	3	0	423.3
+LanceHats	2	3	0	392.6
+Tequila Catz	2	3	0	416.7
+Slappy Grannies Home...	1	4	0	377.0
 POPPY DIVISION	W	L	T	FPTS
-Crazy Canucks	4	1	0	483.7
-Tone-Rhm	3	2	0	549.8
-Vanilla Gorillas	3	2	0	444.2
-Victorious Secret	2	3	0	434.9
-PERIOD 6: 10/7/14 - 10/13/14 MATCHUPS	@	RESULTS
-Tequila Catz (L)	The Weather Girls (W)	71.8 - 105.1
-Vanilla Gorillas (L)	Slappy Grannies (W)	86.6 - 114.7
-Gingerbottoms (L)	Satan (W)	87.6 - 124.1
-Tone-Rhm (W)	Gert Jonnys! (L)	116.3 - 90.3
-Victorious Secret (L)	O-Furs (W)	94.2 - 131.3
-Crazy Canucks (L)	Old White Guys from Buffalo (W)	87.2 - 137.9
+Tone-Rhm	4	1	0	588.8
+Sicilian Poison Control...	3	2	0	516.4
+Victorious Secret	2	3	0	471.1
+Crazy Canucks	1	4	0	486.8
+PERIOD 6: 10/11/22 - 10/17/22 MATCHUPS	@	RESULTS
+Antique Dolls (W)	Crazy Canucks (L)	76.4 - 54.0Recap
+Tone-Rhm (W)	LanceHats (L)	75.7 - 59.0Recap
+Victorious Secret (L)	Tequila Catz (W)	91.5 - 134.1Recap
+Old White Guys from... (W)	Slappy Grannies Home... (L)	80.4 - 56.4Recap
+Satan (L)	The Congenial Gert... (W)	101.6 - 123.7Recap
+The Weather Girls (L)	Sicilian Poison Control... (W)	68.1 - 80.6Recap
 DAISY DIVISION	W	L	T	FPTS
-The Weather Girls	5	1	0	559.2
-O-Furs	4	2	0	626.1
-Old White Guys from Buffalo	3	3	0	641.0
-Satan	1	5	0	500.7
+Old White Guys from...	6	0	0	606.5
+The Weather Girls	4	2	0	549.6
+Antique Dolls	3	3	0	559.4
+Satan	2	4	0	572.3
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	5	1	0	623.8
-Tequila Catz	2	4	0	524.2
-Gert Jonnys!	2	4	0	448.5
-Gingerbottoms	1	5	0	512.5
+The Congenial Gert...	3	3	0	546.9
+Tequila Catz	3	3	0	550.7
+LanceHats	2	4	0	451.5
+Slappy Grannies Home...	1	5	0	433.4
 POPPY DIVISION	W	L	T	FPTS
-Tone-Rhm	4	2	0	666.0
-Crazy Canucks	4	2	0	570.9
-Vanilla Gorillas	3	3	0	530.7
-Victorious Secret	2	4	0	529.0
-PERIOD 7: 10/14/14 - 10/20/14 MATCHUPS	@	RESULTS
-Victorious Secret (L)	The Weather Girls (W)	86.1 - 86.3
-Crazy Canucks (W)	Satan (L)	81.6 - 59.0
-Vanilla Gorillas (L)	Gingerbottoms (W)	78.5 - 124.1
-Tone-Rhm (L)	Tequila Catz (W)	106.5 - 108.1
-Gert Jonnys! (W)	O-Furs (L)	74.3 - 72.2
-Slappy Grannies (L)	Old White Guys from Buffalo (W)	74.8 - 110.6
+Tone-Rhm	5	1	0	664.5
+Sicilian Poison Control...	4	2	0	597.1
+Victorious Secret	2	4	0	562.6
+Crazy Canucks	1	5	0	540.9
+PERIOD 7: 10/18/22 - 10/24/22 MATCHUPS	@	RESULTS
+Old White Guys from... (L)	Tequila Catz (W)	62.3 - 114.7Recap
+The Weather Girls (L)	Tone-Rhm (W)	79.8 - 81.2Recap
+Antique Dolls (L)	Victorious Secret (W)	60.9 - 100.6Recap
+Crazy Canucks (L)	Slappy Grannies Home... (W)	77.4 - 84.2Recap
+Sicilian Poison Control... (W)	The Congenial Gert... (L)	90.2 - 89.9Recap
+Satan (W)	LanceHats (L)	101.7 - 67.2Recap
 DAISY DIVISION	W	L	T	FPTS
-The Weather Girls	6	1	0	645.5
-Old White Guys from Buffalo	4	3	0	751.6
-O-Furs	4	3	0	698.3
-Satan	1	6	0	559.7
+Old White Guys from...	6	1	0	668.8
+The Weather Girls	4	3	0	629.4
+Satan	3	4	0	674.0
+Antique Dolls	3	4	0	620.3
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	5	2	0	698.6
-Tequila Catz	3	4	0	632.3
-Gert Jonnys!	3	4	0	522.8
-Gingerbottoms	2	5	0	636.5
+Tequila Catz	4	3	0	665.4
+The Congenial Gert...	3	4	0	636.8
+LanceHats	2	5	0	518.7
+Slappy Grannies Home...	2	5	0	517.7
 POPPY DIVISION	W	L	T	FPTS
-Crazy Canucks	5	2	0	652.4
-Tone-Rhm	4	3	0	772.5
-Vanilla Gorillas	3	4	0	609.2
-Victorious Secret	2	5	0	615.1
-PERIOD 8: 10/21/14 - 10/27/14 MATCHUPS	@	RESULTS
-The Weather Girls (W)	Gingerbottoms (L)	153.3 - 76.9
-O-Furs (L)	Slappy Grannies (W)	80.9 - 94.0
-Tone-Rhm (L)	Old White Guys from Buffalo (W)	104.5 - 146.9
-Tequila Catz (W)	Crazy Canucks (L)	101.1 - 94.0
-Victorious Secret (L)	Satan (W)	99.2 - 152.8
-Gert Jonnys! (L)	Vanilla Gorillas (W)	66.4 - 120.3
+Tone-Rhm	6	1	0	745.6
+Sicilian Poison Control...	5	2	0	687.2
+Victorious Secret	3	4	0	663.1
+Crazy Canucks	1	6	0	618.3
+PERIOD 8: 10/25/22 - 10/31/22 MATCHUPS	@	RESULTS
+Tequila Catz (L)	Satan (W)	111.4 - 134.0Recap
+LanceHats (L)	Victorious Secret (W)	80.6 - 105.4Recap
+Sicilian Poison Control... (W)	Antique Dolls (L)	134.3 - 93.1Recap
+Slappy Grannies Home... (L)	The Weather Girls (W)	79.3 - 84.7Recap
+Tone-Rhm (W)	Old White Guys from... (L)	128.4 - 75.0Recap
+The Congenial Gert... (L)	Crazy Canucks (W)	105.4 - 121.0Recap
 DAISY DIVISION	W	L	T	FPTS
-The Weather Girls	7	1	0	798.9
-Old White Guys from Buffalo	5	3	0	898.5
-O-Furs	4	4	0	779.2
-Satan	2	6	0	712.5
+Old White Guys from...	6	2	0	743.9
+The Weather Girls	5	3	0	714.0
+Satan	4	4	0	808.0
+Antique Dolls	3	5	0	713.4
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	6	2	0	792.6
-Tequila Catz	4	4	0	733.4
-Gert Jonnys!	3	5	0	589.3
-Gingerbottoms	2	6	0	713.4
+Tequila Catz	4	4	0	776.8
+The Congenial Gert...	3	5	0	742.2
+LanceHats	2	6	0	599.3
+Slappy Grannies Home...	2	6	0	596.9
 POPPY DIVISION	W	L	T	FPTS
-Crazy Canucks	5	3	0	746.4
-Tone-Rhm	4	4	0	877.0
-Vanilla Gorillas	4	4	0	729.5
-Victorious Secret	2	6	0	714.3
-PERIOD 9: 10/28/14 - 11/3/14 MATCHUPS	@	RESULTS
-The Weather Girls (W)	Crazy Canucks (L)	105.0 - 84.7
-O-Furs (L)	Vanilla Gorillas (W)	85.2 - 101.8
-Tone-Rhm (W)	Slappy Grannies (L)	123.8 - 77.4
-Tequila Catz (L)	Satan (W)	98.5 - 123.2
-Victorious Secret (L)	Gingerbottoms (W)	71.5 - 90.3
-Gert Jonnys! (L)	Old White Guys from Buffalo (W)	60.9 - 106.5
+Tone-Rhm	7	1	0	874.0
+Sicilian Poison Control...	6	2	0	821.5
+Victorious Secret	4	4	0	768.5
+Crazy Canucks	2	6	0	739.3
+PERIOD 9: 11/1/22 - 11/7/22 MATCHUPS	@	RESULTS
+LanceHats (W)	Old White Guys from... (L)	109.5 - 86.6Recap
+Slappy Grannies Home... (L)	Sicilian Poison Control... (W)	76.7 - 99.0Recap
+The Weather Girls (W)	Crazy Canucks (L)	96.4 - 69.0Recap
+Victorious Secret (L)	Satan (W)	62.0 - 116.0Recap
+Tone-Rhm (W)	Tequila Catz (L)	83.7 - 69.6Recap
+The Congenial Gert... (W)	Antique Dolls (L)	128.1 - 91.7Recap
 DAISY DIVISION	W	L	T	FPTS
-The Weather Girls	8	1	0	903.8
-Old White Guys from Buffalo	6	3	0	1004.9
-O-Furs	4	5	0	864.4
-Satan	3	6	0	835.7
+Old White Guys from...	6	3	0	830.5
+The Weather Girls	6	3	0	810.4
+Satan	5	4	0	924.0
+Antique Dolls	3	6	0	805.1
 PANSY DIVISION	W	L	T	FPTS
-Slappy Grannies	6	3	0	870.0
-Tequila Catz	4	5	0	832.0
-Gingerbottoms	3	6	0	803.7
-Gert Jonnys!	3	6	0	650.1
+The Congenial Gert...	4	5	0	870.3
+Tequila Catz	4	5	0	846.4
+LanceHats	3	6	0	708.8
+Slappy Grannies Home...	2	7	0	673.7
 POPPY DIVISION	W	L	T	FPTS
-Tone-Rhm	5	4	0	1000.9
-Vanilla Gorillas	5	4	0	831.3
-Crazy Canucks	5	4	0	831.1
-Victorious Secret	2	7	0	785.8
-PERIOD 10: 11/4/14 - 11/10/14 MATCHUPS	@	RESULTS
-Slappy Grannies (W)	The Weather Girls (L)	135.8 - 117.5
-Gingerbottoms (W)	O-Furs (L)	104.3 - 94.0
-Satan (L)	Tone-Rhm (W)	39.4 - 105.1
-Vanilla Gorillas (W)	Tequila Catz (L)	104.9 - 73.7
-Old White Guys from Buffalo (L)	Victorious Secret (W)	73.7 - 117.6
-Crazy Canucks (L)	Gert Jonnys! (W)	49.2 - 55.4
+Tone-Rhm	8	1	0	957.8
+Sicilian Poison Control...	7	2	0	920.5
+Victorious Secret	4	5	0	830.5
+Crazy Canucks	2	7	0	808.3
+PERIOD 10: 11/8/22 - 11/14/22 MATCHUPS	@	RESULTS
+Satan (L)	Slappy Grannies Home... (W)	55.6 - 74.8Recap
+Crazy Canucks (L)	LanceHats (W)	57.8 - 112.0Recap
+Old White Guys from... (L)	Sicilian Poison Control... (W)	81.2 - 81.3Recap
+Tequila Catz (L)	The Weather Girls (W)	72.8 - 123.5Recap
+Victorious Secret (L)	The Congenial Gert... (W)	71.5 - 97.6Recap
+Antique Dolls (W)	Tone-Rhm (L)	113.1 - 92.6Recap
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	7	3	0	933.9
+Old White Guys from...	6	4	0	911.7
+Satan	5	5	0	979.6
+Antique Dolls	4	6	0	918.2
+PANSY DIVISION	W	L	T	FPTS
+The Congenial Gert...	5	5	0	967.9
+Tequila Catz	4	6	0	919.2
+LanceHats	4	6	0	820.7
+Slappy Grannies Home...	3	7	0	748.5
+POPPY DIVISION	W	L	T	FPTS
+Sicilian Poison Control...	8	2	0	1001.8
+Tone-Rhm	8	2	0	1050.3
+Victorious Secret	4	6	0	901.9
+Crazy Canucks	2	8	0	866.1
+PERIOD 11: 11/15/22 - 11/21/22 MATCHUPS	@	RESULTS
+Old White Guys from... (L)	The Congenial Gert... (W)	88.9 - 95.3Recap
+Slappy Grannies Home... (L)	Tone-Rhm (W)	69.2 - 117.3Recap
+Victorious Secret (W)	The Weather Girls (L)	82.6 - 75.4Recap
+Crazy Canucks (L)	Satan (W)	57.1 - 101.4Recap
+Antique Dolls (L)	LanceHats (W)	71.6 - 94.8Recap
+Tequila Catz (W)	Sicilian Poison Control... (L)	140.5 - 130.8Recap
+DAISY DIVISION	W	L	T	FPTS
+The Weather Girls	7	4	0	1009.3
+Old White Guys from...	6	5	0	1000.6
+Satan	6	5	0	1081.0
+Antique Dolls	4	7	0	989.8
+PANSY DIVISION	W	L	T	FPTS
+The Congenial Gert...	6	5	0	1063.2
+Tequila Catz	5	6	0	1059.7
+LanceHats	5	6	0	915.6
+Slappy Grannies Home...	3	8	0	817.7
+POPPY DIVISION	W	L	T	FPTS
+Tone-Rhm	9	2	0	1167.6
+Sicilian Poison Control...	8	3	0	1132.5
+Victorious Secret	5	6	0	984.6
+Crazy Canucks	2	9	0	923.2

@@ -3,8 +3,8 @@ import copy
 import itertools
 import re
 
-from buttercup.timer import Timer
-from buttercup.team import Team, League
+from timer import Timer
+from team import Team, League
 
 def load_teams(path):
     teams = []
@@ -109,7 +109,7 @@ class PlayoffCalculator(object):
         while q:
             step += 1
             (league, weeknum, matchnum) = q.pop(0)
-            print 'at step {0}, week: {1}, match: {2}'.format(step, weeknum, matchnum)
+            print ('at step {0}, week: {1}, match: {2}, qlen {3}'.format(step, weeknum, matchnum, len(q)))
             (team1, team2) = schedule[weeknum][matchnum]
             if matchnum < len(schedule[weeknum])-1:
                 matchnum += 1
@@ -137,15 +137,18 @@ def main():
     
     league = load_scores(league, '/Users/tash/projects/buttercup/scores.txt')
     schedule = load_schedule('/Users/tash/projects/buttercup/schedule.txt')
-    print schedule
-
+    #print(schedule)
+    #for team in league.teamList():
+    #    print(team)
+    #quit()
+    
     with Timer('playoff calculator'):
         pc = PlayoffCalculator(league)
         res = pc.playmatches(schedule)
         (div, cl, elim, divCount, playoffsCount) = pc.calculateWinners(res)
         print (div, cl, elim)
-        print 'division Count: ' + str(divCount)
-        print 'playoff count: ' + str(playoffsCount)
+        print ('division Count: ' + str(divCount))
+        print ('playoff count: ' + str(playoffsCount))
     
     
 main()

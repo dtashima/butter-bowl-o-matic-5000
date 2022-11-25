@@ -1,21 +1,21 @@
-PERIOD 11: 11/11/14 - 11/17/14 MATCHUPS	@	RESULTS
-Old White Guys from Buffalo	The Weather Girls	
-Crazy Canucks	Tone-Rhm	
-Vanilla Gorillas	Victorious Secret	
-Gingerbottoms	Gert Jonnys!	
-Slappy Grannies	Tequila Catz	
-Satan	O-Furs	
-PERIOD 12: 11/18/14 - 11/24/14 MATCHUPS	@	RESULTS
-O-Furs	The Weather Girls	
-Old White Guys from Buffalo	Satan	
-Vanilla Gorillas	Crazy Canucks	
-Tequila Catz	Gert Jonnys!	
-Tone-Rhm	Victorious Secret	
-Gingerbottoms	Slappy Grannies	
-PERIOD 13: 11/25/14 - 12/1/14 MATCHUPS	@	RESULTS
+PERIOD 12: 11/22/22 - 11/28/22 MATCHUPS	@	RESULTS
 The Weather Girls	Satan	
-O-Furs	Old White Guys from Buffalo	
-Tone-Rhm	Vanilla Gorillas	
-Tequila Catz	Gingerbottoms	
 Victorious Secret	Crazy Canucks	
-Gert Jonnys!	Slappy Grannies	
+The Congenial Gert...	LanceHats	
+Antique Dolls	Old White Guys from...	
+Tone-Rhm	Sicilian Poison Control...	
+Slappy Grannies Home...	Tequila Catz	
+PERIOD 13: 11/29/22 - 12/5/22 MATCHUPS	@	RESULTS
+The Congenial Gert...	Slappy Grannies Home...	
+Tone-Rhm	Victorious Secret	
+Sicilian Poison Control...	Crazy Canucks	
+LanceHats	Tequila Catz	
+The Weather Girls	Antique Dolls	
+Satan	Old White Guys from...	
+PERIOD 14: 12/6/22 - 12/12/22 MATCHUPS	@	RESULTS
+Tequila Catz	The Congenial Gert...	
+Crazy Canucks	Tone-Rhm	
+Satan	Antique Dolls	
+Old White Guys from...	The Weather Girls	
+Sicilian Poison Control...	Victorious Secret	
+LanceHats	Slappy Grannies Home...	
